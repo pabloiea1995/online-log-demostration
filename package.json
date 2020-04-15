@@ -1,0 +1,23 @@
+{
+  "name": "test-online-log",
+  "version": "1.0.0",
+  "description": "Demonstration web for online-log module",
+  "main": "app.js",
+  "dependencies": {
+    "online-log": "^0.1.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pabloiea1995/online-log-demostration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pabloiea1995/online-log-demostration/issues"
+  },
+  "homepage": "https://github.com/pabloiea1995/online-log-demostration#readme"
+}
